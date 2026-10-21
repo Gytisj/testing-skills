@@ -1,0 +1,3 @@
+interface:
+  display_name: "Miestų oras"
+  short_description: "5 didžiausių Lietuvos miestų temperatūra ir orai iš meteo.lt"
